@@ -24,7 +24,7 @@ DOCTYPE html>
 </html>
 
 body {
-    background-color: #f0e68c;
+    background-color: #Black;
     font-family: 'Arial', sans-serif;
     overflow: hidden;
     margin: 0;
@@ -68,10 +68,10 @@ body {
     animation: float 3s infinite;
 }
 
-.balloon1 { background-color: #ff6f61; }
-.balloon2 { background-color: #6fa3ff; }
-.balloon3 { background-color: #ffcc5c; }
-.balloon4 { background-color: #88d8b0; }.balloon:after {
+.balloon1 { background-color: #red; }
+.balloon2 { background-color: #pink; }
+.balloon3 { background-color: #green; }
+.balloon4 { background-color: #white; }.balloon:after {
     content: '';
     width: 10px;
     height: 10px;
